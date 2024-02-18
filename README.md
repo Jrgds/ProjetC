@@ -1,7 +1,6 @@
 # ProjetC
 
-Consignes reçus pour la réalisation du Projet C:
-Voici le cahier des charges donné par ITS pour le projet C, que Aude nous a envoyé :
+Le cahier des charges reçu pour la réalisation du Projet C :
 
 Installation et configuration d’une application monolithique et de l’ensemble de son écosystème manière automatisée via pipeline CI/CD en veillant à intégrer des principes DevSecOps.
 Transformer une application monolithique en microservices et l’intégrer de manière automatisée via pipeline CI/CD en veillant à intégrer des principes DevSecOps.
