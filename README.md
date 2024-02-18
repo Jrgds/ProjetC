@@ -21,11 +21,8 @@ Installation et configuration d’une application monolithique et de l’ensembl
 *  réaliser les tests de sécurité
 *  supervision (infra et applicative)
 
-## Le projet mis en place
 
-![This is an alt text.](https://github.com/Jrgds/ProjetC/blob/main/ProjetC.png "This is a sample image.")
-
-### Les outils choisis
+## Les outils choisis
 
 * GitLab (free trial) pour la création d’un Groupe de projet (privé) et le registre des fichiers du projet et des conteneurs Docker du micro-service
 
@@ -42,3 +39,8 @@ Installation et configuration d’une application monolithique et de l’ensembl
 * Powershell (connexion à chaque instance EC2)
 
 * Reprise de l’application monolithique et le micro-service du  be using [Projet B](https://github.com/Jrgds/ProjectB/tree/dev). (Owncloud server et le micro-service « gestion de mot de passe »)
+
+
+## Le projet mis en place
+
+![This is an alt text.](https://github.com/Jrgds/ProjetC/blob/main/ProjetC.png "This is a sample image.")
