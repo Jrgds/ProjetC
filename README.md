@@ -9,6 +9,7 @@ Mettre à profit toutes les compétences acquises lors de la formation dans le p
 Définir l’architecture cible en limitant les points de faiblesse de l’infrastructure choisie tout en améliorant la sécurité de l’application dans son ensemble.
  
 Notions complémentaires :
+
 DevSec
 ·        sécuriser le code source
 ·        réaliser les tests fonctionnels
