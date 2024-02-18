@@ -11,8 +11,8 @@ Définir l’architecture cible en limitant les points de faiblesse de l’infra
 Notions complémentaires :
 
 DevSec
-·        sécuriser le code source
-·        réaliser les tests fonctionnels
+####        sécuriser le code source
+#### réaliser les tests fonctionnels
 
 SecOps
 ·        sécuriser des configurations
