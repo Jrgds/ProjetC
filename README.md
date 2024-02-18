@@ -41,6 +41,6 @@ Installation et configuration d’une application monolithique et de l’ensembl
 * Reprise de l’application monolithique et le micro-service du [Projet B](https://github.com/Jrgds/ProjectB/tree/dev). (Owncloud server et le micro-service « gestion de mot de passe »)
 
 
-## Le projet mis en place
+## L'architecture mise en place
 
 ![This is an alt text.](https://github.com/Jrgds/ProjetC/blob/main/ProjetC.png "This is a sample image.")
