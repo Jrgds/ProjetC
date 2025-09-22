@@ -44,3 +44,12 @@ Installation et configuration d’une application monolithique et de l’ensembl
 ## L'architecture mise en place
 
 ![This is an alt text.](https://github.com/Jrgds/ProjetC/blob/main/ProjetC.png "This is a sample image.")
+
+
+## Vidéos du projet final présenté
+
+* [Deployement_CI-CD_Infra _ ProjetC.mp4](https://drive.google.com/file/d/1prHYL4_c_fqnAZooHybRIOSKssAVNlh8/view?usp=sharing)
+* [Deployement_CI-CD_App et Nginx _ProjetC.mp4](https://drive.google.com/file/d/12w_p91nN1LIefWEKsTCuOjN4XZ3Kweug/view?usp=sharing)
+* [Deployement_CI-CD_Microservice _ ProjetC.mp4](https://drive.google.com/file/d/1UH95NRjZYZeKpopuPRi-ebtz3zKMeTX9/view?usp=sharing)
+* [Déployement_manuel_ProjetC.mp4](https://drive.google.com/file/d/1AapQOkY-R5vWvvJbnL3CqMGJJz0VEzIE/view?usp=sharing)
+
